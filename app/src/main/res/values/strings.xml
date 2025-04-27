@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">teste-config</string>
+    <string name="hello_world">Ola mundao</string>
+</resources>
